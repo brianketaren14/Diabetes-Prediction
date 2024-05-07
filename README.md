@@ -8,6 +8,10 @@ at least 21 years old of Pima Indian heritage.2
 From the data set in the (.csv) File We can find several variables, some of them are independent
 (several medical predictor variables) and only one target dependent variable (Outcome).
 
+Dataset : https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset
+
+Dashboard : https://lookerstudio.google.com/reporting/a27fa3d1-5cee-4831-b6ff-886d1879b905
+
 - Pregnancies: To express the Number of pregnancies
 
 - Glucose: To express the Glucose level in blood
